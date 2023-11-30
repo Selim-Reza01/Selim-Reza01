@@ -5,14 +5,17 @@
   <a href="https://www.linkedin.com/in/selim-reza55/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.facebook.com/selimrz01/">
-    <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
+  <a href="https://leetcode.com/selim-reza01/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://codeforces.com/profile/selim_reza01">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white" alt="LeetCode Badge"/>
   </a>
   <a href="[https://stackoverflow.com/users/19763297/tufayel-ahmed](https://www.hackerrank.com/profile/selimjoy_cse)">
     <img src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="stackoverflow Badge"/>
+  </a>
+  <a href="https://www.facebook.com/selimrz01/">
+    <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
   </a>
 </div>
 <div align="center">
