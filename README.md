@@ -19,7 +19,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tufayel-Ahmed&style=flat-square&color=blue" alt="Views Counter" align="center" width="150px" height="27.5px"/>
+  <img src="https://komarev.com/ghpvc/?username=Selim-Reza01&style=flat-square&color=blue" alt="Views Counter" align="center" width="150px" height="27.5px"/>
 </div>
 <h1 align="center">&nbsp;&nbsp;&nbsp;hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 <div align="center">
@@ -55,7 +55,7 @@
 
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tufayel-Ahmed&theme=github-dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Selim-Reza01&theme=github-dark)](https://git.io/streak-stats)
 
 ###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tufayel-Ahmed&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Selim-Reza01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
