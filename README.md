@@ -2,11 +2,11 @@
   <img src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/selim-reza55/">
+  <a href="https://www.linkedin.com/in/tufayel-ahmed-01a34a248/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://leetcode.com/Tufayel-Ahmed/">
-    <img src="https://miro.medium.com/v2/resize:fit:1200/1*iPZ00kImJY8oVioV5Dy75A.jpeg" alt="LeetCode Badge"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA400?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode Badge"/>
   </a>
   <a href="https://stackoverflow.com/users/19763297/tufayel-ahmed">
     <img src="https://img.shields.io/badge/stackoverflow-F48225?logo=stackoverflow&logoColor=white&style=for-the-badge" alt="stackoverflow Badge"/>
