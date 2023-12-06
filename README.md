@@ -56,7 +56,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats :
+### 📊 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Selim-Reza01&theme=github-dark)](https://git.io/streak-stats)
 
 ###
