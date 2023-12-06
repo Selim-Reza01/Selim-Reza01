@@ -14,9 +14,6 @@
   <a href="[https://stackoverflow.com/users/19763297/tufayel-ahmed](https://www.hackerrank.com/profile/selimjoy_cse)">
     <img src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="stackoverflow Badge"/>
   </a>
-  <a href="https://www.facebook.com/selimrz01/">
-    <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
-  </a>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Selim-Reza01&style=flat-square&color=blue" alt="Views Counter" align="center" width="150px" height="27.5px"/>
@@ -29,10 +26,14 @@
 ---
 
 ### :woman_technologist: About Me :
-- :wave: I am a C# Developer from Bangladesh.
-- :telescope: I’m looking for job as a Software Engineer and contributing to frontend and backend for building web applications.
-- :seedling: Exploring Mechine learning Content.
-- :zap: In my free time, I am traveling and read tech articles.
+:bar_chart: Highly skilled and motivated data specialist with over 3 years of experience in data management, analysis, and interpretation.
+:computer: Deep understanding of various data structures and algorithms.
+:chart_with_upwards_trend: Proven track record of turning complex data into actionable business recommendations.
+:gear: Proficient in SQL, Python, and experienced with big data platforms.
+:rocket: Results-driven collaborator with cross-functional teams to address business needs.
+:speech_balloon: Strong technical background coupled with excellent communication and interpersonal skills.
+:star: Excited about the endless possibilities data brings to decision-making.
+:globe_with_meridians: Connect with me on LinkedIn.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
