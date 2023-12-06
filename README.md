@@ -26,6 +26,7 @@
 ---
 
 ### :woman_technologist: About Me :
+
 - 🚀 Highly skilled and motivated data specialist with over 3 years of experience in data management, analysis, and interpretation.
 - 💻 Deep understanding of various data structures and algorithms.
 - 📊 Proven track record of turning complex data into actionable business recommendations.
