@@ -21,7 +21,7 @@
 <h1 align="center">&nbsp;&nbsp;&nbsp;Hello, I'm SELIM REZA <img src ="https://media2.giphy.com/media/JJxk4CtHy3HYYYiZKQ/giphy.gif" width="40px"/></h1>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ktsgz5kp9m40zir8w46h4qz1efq71jmb4puq6d3o&rid=giphy.gif&ct=g" width="600" height="300"/>
+  <img src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e473nddqc6vvj1t2iiy5mc17q228dtb6c9hqmjxabss&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
 
 ---
