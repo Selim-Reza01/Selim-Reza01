@@ -26,14 +26,13 @@
 ---
 
 ### :woman_technologist: About Me :
-:bar_chart: Highly skilled and motivated data specialist with over 3 years of experience in data management, analysis, and interpretation.
-:computer: Deep understanding of various data structures and algorithms.
-:chart_with_upwards_trend: Proven track record of turning complex data into actionable business recommendations.
-:gear: Proficient in SQL, Python, and experienced with big data platforms.
-:rocket: Results-driven collaborator with cross-functional teams to address business needs.
-:speech_balloon: Strong technical background coupled with excellent communication and interpersonal skills.
-:star: Excited about the endless possibilities data brings to decision-making.
-:globe_with_meridians: Connect with me on LinkedIn.
+- 🚀 Highly skilled and motivated data specialist with over 3 years of experience in data management, analysis, and interpretation.
+- 💻 Deep understanding of various data structures and algorithms.
+- 📊 Proven track record of turning complex data into actionable business recommendations.
+- 🐍 Proficient in SQL, Python, and experienced with big data platforms.
+- 🌐 Results-driven collaborator with cross-functional teams to address business needs.
+- 🗣️ Strong technical background coupled with excellent communication and interpersonal skills.
+- ⭐ Excited about the endless possibilities data brings to decision-making.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
