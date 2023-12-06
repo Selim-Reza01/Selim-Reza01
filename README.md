@@ -18,11 +18,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Selim-Reza01&style=flat-square&color=blue" alt="Views Counter" align="center" width="150px" height="27.5px"/>
 </div>
-
-<h1 align="center">Hello, I'm SELIM REZA</h1>
-<div style="width:480px; margin: 0 auto;">
-    <iframe allow="fullscreen" frameborder="0" height="270" src="https://giphy.com/embed/kuZUxKHZryQqOGWR5r/video" width="480px"></iframe>
-</div>
+<h1 align="center">&nbsp;&nbsp;&nbsp;Hello, I'm SELIM REZA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <div align="center">
   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ktsgz5kp9m40zir8w46h4qz1efq71jmb4puq6d3o&rid=giphy.gif&ct=g" width="600" height="300"/>
