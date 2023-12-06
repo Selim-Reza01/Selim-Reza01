@@ -57,7 +57,7 @@
 </div>
 
   
-### :fire: My Stats :
+📊 My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Selim-Reza01&theme=github-dark)](https://git.io/streak-stats)
 
 ###
