@@ -1,6 +1,5 @@
 # Hello Animation
 
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -66,7 +65,6 @@
     </h1>
 </body>
 </html>
-
 <div id="header" align="center">
   <img src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" width="100"/>
 </div>
