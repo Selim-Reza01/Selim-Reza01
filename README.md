@@ -27,7 +27,7 @@
 
 ---
 
-👩‍💻 About Me:
+### 👩‍💻 About Me:
 
 - 🚀 Highly skilled and motivated data specialist with over 3 years of experience in data management, analysis, and interpretation.
 - 💻 Deep understanding of various data structures and algorithms.
@@ -38,7 +38,7 @@
 - ⭐ Excited about the endless possibilities data brings to decision-making.
 ---
 
-💻 Languages and Tools:
+### 💻 Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="Dot Net" alt="Dot Net" width="40" height="40"/>&nbsp;
