@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" width="100"/>
+  <img src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e473nddqc6vvj1t2iiy5mc17q228dtb6c9hqmjxabss&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/selim-reza55/">
