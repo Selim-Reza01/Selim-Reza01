@@ -18,7 +18,75 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Selim-Reza01&style=flat-square&color=blue" alt="Views Counter" align="center" width="150px" height="27.5px"/>
 </div>
+
 <h1 align="center">&nbsp;&nbsp;&nbsp;hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+# Hello Animation
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <style>
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(-10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        h1 {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+        }
+
+        .animated-text span {
+            display: inline-block;
+            opacity: 0;
+            animation: fadeIn 0.5s ease-in-out forwards;
+        }
+
+        .animated-text span:nth-child(1) { animation-delay: 0.5s; }
+        .animated-text span:nth-child(2) { animation-delay: 1s; }
+        .animated-text span:nth-child(3) { animation-delay: 1.5s; }
+        .animated-text span:nth-child(4) { animation-delay: 2s; }
+        .animated-text span:nth-child(5) { animation-delay: 2.5s; }
+        .animated-text span:nth-child(6) { animation-delay: 3s; }
+        .animated-text span:nth-child(7) { animation-delay: 3.5s; }
+        .animated-text span:nth-child(8) { animation-delay: 4s; }
+    </style>
+</head>
+<body>
+    <h1 class="animated-text">
+        <span>H</span>
+        <span>e</span>
+        <span>l</span>
+        <span>l</span>
+        <span>o</span>
+        <span>,</span>
+        <span>&nbsp;</span>
+        <span>I</span>
+        <span>'</span>
+        <span>m</span>
+        <span>&nbsp;</span>
+        <span>S</span>
+        <span>E</span>
+        <span>L</span>
+        <span>I</span>
+        <span>M</span>
+        <span>&nbsp;</span>
+        <span>R</span>
+        <span>E</span>
+        <span>Z</span>
+        <span>A</span>
+    </h1>
+</body>
+
 <div align="center">
   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ktsgz5kp9m40zir8w46h4qz1efq71jmb4puq6d3o&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
