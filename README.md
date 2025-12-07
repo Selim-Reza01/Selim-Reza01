@@ -29,7 +29,7 @@
 ### 👩‍💻 About Me:
 
 - 🚀 Highly skilled Database Engineer with over 7 years of experience in data extraction, automation, and database management.
-- 🕸️ Expert in Python-based web scraping using Selenium, Playwright, Scrapy, BeautifulSoup, and Requests with handling CAPTCHAs, IP rotation, and hidden APIs.
+- 🕸️ Expert in web scraping using Selenium, Playwright, Scrapy, BeautifulSoup, and Requests with handling CAPTCHAs, IP rotation, and APIs.
 - 🛢️ Strong background in MySQL and PostgreSQL, designing and optimizing relational databases for large-scale data pipelines.
 - ⚙️ Experienced in building automation workflows, REST API integrations, and ETL processes using Python (FastAPI, Flask, Pandas).
 - 🧠 Passionate about AI-assisted scraping and intelligent data automation using tools like ChatGPT and local LLMs.
