@@ -28,13 +28,13 @@
 
 ### 👩‍💻 About Me:
 
-- 🚀 Highly skilled and motivated data specialist with over 3 years of experience in data management, analysis, and interpretation.
-- 💻 Deep understanding of various data structures and algorithms.
-- 📊 Proven track record of turning complex data into actionable business recommendations.
-- 🐍 Proficient in SQL, Python, and experienced with big data platforms.
-- 🌐 Results-driven collaborator with cross-functional teams to address business needs.
-- 🗣️ Strong technical background coupled with excellent communication and interpersonal skills.
-- ⭐ Excited about the endless possibilities data brings to decision-making.
+- 🚀 Highly skilled Database Engineer with over 7 years of experience in data extraction, automation, and database management.
+- 🕸️ Expert in Python-based web scraping using Selenium, Playwright, Scrapy, BeautifulSoup, and Requests with handling CAPTCHAs, IP rotation, and hidden APIs.
+- 🛢️ Strong background in MySQL and PostgreSQL, designing and optimizing relational databases for large-scale data pipelines.
+- ⚙️ Experienced in building automation workflows, REST API integrations, and ETL processes using Python (FastAPI, Flask, Pandas).
+- 🧠 Passionate about AI-assisted scraping and intelligent data automation using tools like ChatGPT and local LLMs.
+- 📊 Proven ability to transform unstructured data into clean, structured, and ready-to-use datasets for analytics and business insights.
+- 🤝 Results-driven collaborator with excellent communication, delivering scalable and production-ready data solutions.
 ---
 
 ### 💻 Languages and Tools:
