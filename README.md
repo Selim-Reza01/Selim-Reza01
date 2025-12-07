@@ -11,9 +11,6 @@
   <a href="https://codeforces.com/profile/selim_reza01">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white" alt="LeetCode Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/selimjoy_cse">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="stackoverflow Badge"/>
-  </a>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Selim-Reza01&style=flat-square&color=blue" alt="Views Counter" align="center" width="150px" height="27.5px"/>
