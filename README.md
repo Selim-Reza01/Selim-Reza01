@@ -43,22 +43,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
 
   <!-- Web Scraping -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scrapy/scrapy-original.svg" title="Scrapy" alt="Scrapy" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" title="Selenium" alt="Selenium" width="40" height="40"/>
   <img src="https://playwright.dev/img/playwright-logo.svg" title="Playwright" alt="Playwright" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/BeautifulSoup_Logo.png" title="BeautifulSoup" alt="BeautifulSoup" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Requests_Python_Logo.png" title="Requests" alt="Requests" width="40" height="40"/>
 
   <!-- Data Extraction -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Icon_Excel.svg" title="CSV / Excel" alt="CSV / Excel" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Google_Sheets_Logo.svg" title="Google Sheets API" alt="Google Sheets API" width="40" height="40"/>
-
-  <!-- APIs & Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="REST APIs" alt="REST APIs" width="40" height="40"/>
 
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
@@ -74,9 +65,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub / CI-CD" alt="GitHub" width="40" height="40"/>
-
-  <!-- AI / LLMs -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" title="LLMs / ChatGPT" alt="LLMs" width="40" height="40"/>
   
 </div>
 
