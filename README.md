@@ -40,30 +40,43 @@
 ### 💻 Languages and Tools:
 <div>
   <!-- Core Language -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
 
-  <!-- Web Scraping & Automation -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scrapy/scrapy-original.svg" width="40" height="40" alt="Scrapy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="40" height="40" alt="Playwright"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/beautifulsoup/beautifulsoup-original.svg" width="40" height="40" alt="BeautifulSoup"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/requests/requests-original.svg" width="40" height="40" alt="Requests"/>
+  <!-- Web Scraping -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scrapy/scrapy-original.svg" title="Scrapy" alt="Scrapy" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" title="Selenium" alt="Selenium" width="40" height="40"/>
+  <img src="https://playwright.dev/img/playwright-logo.svg" title="Playwright" alt="Playwright" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/BeautifulSoup_Logo.png" title="BeautifulSoup" alt="BeautifulSoup" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Requests_Python_Logo.png" title="Requests" alt="Requests" width="40" height="40"/>
 
-  <!-- Data Processing -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+  <!-- Data Extraction -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Icon_Excel.svg" title="CSV / Excel" alt="CSV / Excel" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Google_Sheets_Logo.svg" title="Google Sheets API" alt="Google Sheets API" width="40" height="40"/>
+
+  <!-- APIs & Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="REST APIs" alt="REST APIs" width="40" height="40"/>
 
   <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
 
-  <!-- DevOps & Version Control -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <!-- Anti-bot Solutions -->
+  <img src="https://cdn-icons-png.flaticon.com/512/906/906343.png" title="Proxy Rotation" alt="Proxy Rotation" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/3394/3394703.png" title="Captcha Solving" alt="Captcha Solving" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4185/4185638.png" title="Session & Cookie Handling" alt="Session & Cookie Handling" width="40" height="40"/>
+
+  <!-- Deployment & Workflow -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub / CI-CD" alt="GitHub" width="40" height="40"/>
 
   <!-- AI / LLMs -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="40" height="40" alt="LLMs"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" title="LLMs / ChatGPT" alt="LLMs" width="40" height="40"/>
   
 </div>
 
